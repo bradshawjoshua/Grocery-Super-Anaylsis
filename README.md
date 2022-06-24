@@ -1,4 +1,4 @@
-# Deploy Linear Regression to Predict Grocery Sales
+# Deploy Linear Regression to Predict GrocerySuper Future Sales
 ## Comparing Predictive Models to Drive Actionable Insights
 
 **Joshua Bradshaw**: 
