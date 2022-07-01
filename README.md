@@ -25,7 +25,7 @@
 * At first, the model's coefficient determination (R2) was performing poorly, displaying underfit and high bias. After hyperparameter tuning the Decision Tree Model, it ended up performing the best with:
   * R2 Test: 59%
   * RMSE Test: $1,057
-* It tells us that our model is making an average error of $1,057 on the test data. The RMSE is punishing those large errors with a wrose score. An R2 of 59% means that the Decision Tree Model can explain 59% of the variation in the sales target.
+* The model is making an average error of $1,057 on the test data. The RMSE is punishing those large errors with a worse score. An R2 Score of 59% means that the Decision Tree Model can explain 59% of the variation in the sales target. Overall, RMSE is better when lower and R2 Score is better when its closer to 100%.
 
 ### Here are examples of how to embed images from your sub-folder
 
