@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-* Executive has provided an data set with $18.6 million in earnings from the last year, he would like to know more information on how to improve the companies performance for the next fiscal year.
+* Executive has provided a data set with $18.6+M in earnings from the last year, he would like to know more information on how to improve the companies performance for the next fiscal year.
 
 
 ### Data:
@@ -22,13 +22,25 @@
 
 
 ## Results
-*Decision Tree
+Outlet Size Sales
+* High: $2.14+M
+* Medium: $7.48+M
+* Small: $4.56+M
+* Missing: $4.39+M
+
+Linear Regression Metrics
+  * R2 Train: 56%
+  * R2 Test: 57%
+  * RMSE Train: $1,139
+  * RMSE Test: $1,093
+
+Decision Tree Metrics
+  * R2 Train: 60%
   * R2 Test: 59%
+  * RMSE Train: $1,082
   * RMSE Test: $1,057
 
-
 ### Here are examples of how to embed images from your sub-folder
-
 
 #### Visual 1 Title
 ![sample image](project1_sample_image.png)
