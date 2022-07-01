@@ -46,7 +46,7 @@ Decision Tree Metrics
 ![image](https://user-images.githubusercontent.com/83310016/176863869-1b48ed04-eaf0-426b-9a1a-2c31a6637f32.png)
 
 
-> Sentence about visualization.
+> Medium Sized Outlets represent the best sales performances, with Medium showing a strong relationship with Outlet Type being primarily Supermarket Type 2 & 3.
 
 #### Visual 2 Title
 
