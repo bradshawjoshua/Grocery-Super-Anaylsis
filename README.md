@@ -1,4 +1,4 @@
-# Deploy Regression Models to Predict GrocerySuper Future Sales
+# Deploy Regression Models to Predict GrocerySuper's Future Sales
 ## Comparing Predictive Models to Improve Company Earnings
 
 **Author**: Joshua J. Bradshaw 
