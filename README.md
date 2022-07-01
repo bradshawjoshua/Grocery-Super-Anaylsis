@@ -43,7 +43,8 @@ Decision Tree Metrics
 ### Here are examples of how to embed images from your sub-folder
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![image](https://user-images.githubusercontent.com/83310016/176863869-1b48ed04-eaf0-426b-9a1a-2c31a6637f32.png)
+
 
 > Sentence about visualization.
 
