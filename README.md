@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-* Executive has provided an $18.6 million earnings from last year, he would like to know more information on how to improve the companies performance for the next fiscal year.
+* Executive has provided an data set with $18.6 million in earnings from the last year, he would like to know more information on how to improve the companies performance for the next fiscal year.
 
 
 ### Data:
