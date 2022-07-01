@@ -18,7 +18,7 @@
 * Used machine learning models to identify and predict overall store sales.
   * Linear Regression
   * Decision Tree
-* Deployed a Linear Regression Model, then attempted to improve my model's performance by optimizing it using a Decision Tree Model
+* Deployed a Linear Regression Model, then attempted to improve my model's performance by optimizing it using a Decision Tree Model.
 
 
 ## Results
