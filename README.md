@@ -42,35 +42,24 @@ Decision Tree Metrics
 
 ### Here are examples of how to embed images from your sub-folder
 
-#### Visual 1 Title
+#### Outlet Size Sales Breakdown
 ![image](https://user-images.githubusercontent.com/83310016/176863869-1b48ed04-eaf0-426b-9a1a-2c31a6637f32.png)
-
-
 > Medium Sized Outlets represent the best sales performances, with Medium showing a strong relationship with Outlet Type being primarily Supermarket Type 2 & 3.
 
-#### Visual 2 Title
+#### Decision Tree Model Tuning
+![image](https://user-images.githubusercontent.com/83310016/176868700-f73bea4f-f970-43c1-b0e8-1e5b6f13b8b3.png)
+>This plot visually determines the optimal depth (5) for our Decision Tree, and also provides an estimate of our R2 Scores for both Train and Test.
 
 ## Model
 * At first, the model's coefficient determination (R2) was performing poorly, displaying underfit and high bias. After hyperparameter tuning the Decision Tree Model, it ended up performing the best with:
 * The model is making an average error of $1,057 on the test data. The RMSE is punishing those large errors with a worse score. An R2 Score of 59% means that the Decision Tree Model can explain 59% of the variation in the sales target. Overall, RMSE is better when lower and R2 Score is better when its closer to 100%.
 
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
-
 ## Recommendations:
-
-More of your own text here
+I recommend we include more data, implement other machine learning models (Random Forest), and look for other ways to explore the data. An R2 of 59% is not terrible, but it also isn't great. Anything about 60% would be more favorable. 
 
 
 ## Limitations & Next Steps
-
-More of your own text here
-
-
-### For further information
+The next steps involve implementing other machine learning models, like the Random Forest to see if we can get a better fit.
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **joshua.j.bradshaw@outlook.com**
