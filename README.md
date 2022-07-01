@@ -5,12 +5,12 @@
 
 ### Business problem:
 
-Executive wants to know what he could expect from 
+* Executive has provided an $18.6 million earnings from last year, he would like to know more information on how to improve the companies performance for the next fiscal year using the data set he has provided.
 
 
 ### Data:
 Data can include source and high-level description (e.g. # obs)
-
+* The distribution of the Executive's data set is on average 
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
