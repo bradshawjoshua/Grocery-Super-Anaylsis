@@ -57,7 +57,6 @@ I recommend we include more data, implement other machine learning models (Rando
 
 
 ## Limitations & Next Steps
-The following steps involve implementing other machine learning models, like the Random Forest, to see if we can get a better fit.
-
+The next steps involve implementing and getting more data to help the fitting process for current and future models.
 
 For any additional questions, please contact **joshua.j.bradshaw@outlook.com**
