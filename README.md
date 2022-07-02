@@ -11,7 +11,7 @@
 ### Data:
 * The Executive's Item Outlet Sales’ median distribution is $1,794, with Medium Outlet Sized Stores performing better than High and Small.
 * The Medium Outlet Sized Stores are bucketed primarily as Supermarkets Type2 and Type3, with Small Outlet Sized Stores showing higher instances of Grocery Store and Supermarket Type1 for Outlet Type.
-* Decision Tree Model performed slightly better than Linear Regression after tuning and optimization.
+* Decision Tree Model performed slightly better than Linear Regression Model after tuning and optimization.
 
 ## Methods
 * Conducted data cleaning and exploratory analysis on the data set to help identify which outlet size performed the best.
